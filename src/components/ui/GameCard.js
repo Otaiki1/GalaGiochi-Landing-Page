@@ -1,6 +1,4 @@
 import React from "react";
-import puzzle from "../../assets/puzzle.svg";
-
 function GameCard({ name, img }) {
   return (
     <div className="w-full rounded-[24px] overflow-hidden">
