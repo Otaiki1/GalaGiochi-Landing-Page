@@ -1,4 +1,7 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
+@import "tailwindcss/base";
+@font-face {
+  font-family: "ageer";
+  src: url("/public/AgeerPersonalUse.otf");
+}
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
