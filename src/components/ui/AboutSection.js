@@ -13,9 +13,9 @@ function AboutSection() {
             Pioneering Web3 Platform
           </h4>
           <p className="text-[17px] leading-[30px]">
-            Built on Starknet, Galagiochi combines the best of blockchain and
-            gaming. Our mission is to create an engaging, secure, and rewarding
-            space for gamers.
+            Built on the blockchain, Galagiochi combines the best of blockchain and
+            gaming. Our mission is to create engaging, secure, and rewarding fun games to keep users busy and make communities have bonding activities.
+          
           </p>
         </div>
         <div className="bg-black w-full h-full rounded-[10px] flex justify-center items-center">
